@@ -1,1 +1,3 @@
-# IEEE_Project_Machine_learning
+# IEEE-Project---Machine-learning
+#Kacper Murczkiewicz
+#Damian Gul
